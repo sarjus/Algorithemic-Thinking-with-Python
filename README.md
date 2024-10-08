@@ -56,3 +56,31 @@ Write a Python program that performs the following tasks:
 - The sub-string should be `"Doe"`.
 
 ---
+## Working with Date and Time in Python
+
+## Aim
+To display the current date and time in various formats using Python's `datetime` module.
+
+## Introduction
+
+In Python, the `datetime` module provides classes for manipulating dates and times. The `strftime()` method is used to format dates and times into specific string representations, and `strptime()` can be used to parse dates from strings.
+
+---
+
+## Commonly Used Date and Time Format Codes
+
+- `%a`: Abbreviated weekday name (e.g., Mon, Tue)
+- `%A`: Full weekday name (e.g., Monday, Tuesday)
+- `%b`: Abbreviated month name (e.g., Jan, Feb)
+- `%B`: Full month name (e.g., January, February)
+- `%d`: Day of the month (zero-padded) (e.g., 01, 02, 31)
+- `%m`: Month as a zero-padded decimal number (e.g., 01, 02, 12)
+- `%Y`: Year with century (e.g., 2024)
+- `%H`: Hour (24-hour clock) (e.g., 00, 23)
+- `%I`: Hour (12-hour clock) (e.g., 01, 12)
+- `%M`: Minute as a zero-padded decimal number (e.g., 00, 59)
+- `%S`: Second as a zero-padded decimal number (e.g., 00, 59)
+- `%p`: AM or PM
+- `%Z`: Time zone name (e.g., IST, UTC)
+
+---
