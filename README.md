@@ -34,4 +34,25 @@ Write a Python program that performs the following tasks using the five basic ar
    Print the remainder in the format:  
    `The remainder when num1 is divided by num2 is: result`
 ---
+# Python Program to Create, Concatenate, and Access a Sub-string
 
+## Task
+Write a Python program that performs the following tasks:
+
+1. Create two separate strings:
+   - The first string should contain your first name.
+   - The second string should contain your last name.
+
+2. Concatenate the two strings with a space in between and store the result in a new variable.
+
+3. Print the concatenated string.
+
+4. From the concatenated string:
+   - Access and print a sub-string that consists of the last name only using string slicing.
+
+## Example
+
+- If the first name is `"John"` and the last name is `"Doe"`, the concatenated string should be `"John Doe"`.
+- The sub-string should be `"Doe"`.
+
+---
