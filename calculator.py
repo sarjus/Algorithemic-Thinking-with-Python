@@ -1,3 +1,16 @@
+"""
+This program performs basic arithmetic operations (addition, subtraction, multiplication, division, 
+    modulus, and a combined operation) on user input numbers.
+
+    Operations included:
+    1. Addition: num1 + num2
+    2. Subtraction: num1 - num2
+    3. Multiplication: num1 * num2
+    4. Division: num1 / num2
+    5. Modulus: num1 % num2
+    Author : Sarju S
+    Date: 08-10-2024
+"""
 # Get user input
 num1 = float(input("Enter the first number (num1): "))
 num2 = float(input("Enter the second number (num2): "))
