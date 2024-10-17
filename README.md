@@ -1,4 +1,8 @@
 # Algorithemic-Thinking-with-Python
+## Directories
+notebooks - jupyter notebooks
+
+
 ## AIM
 Write a Python program that performs the following tasks using the five basic arithmetic operators.
 
